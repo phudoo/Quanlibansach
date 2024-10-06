@@ -1,0 +1,42 @@
+﻿@using Websitebansach.Models;
+@model List<Sach>
+
+<link href="~/Content/TrangChu.css" rel="stylesheet"/>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/NguoidungLayout.cshtml";
+}
+<h2>
+    Sách đang bán
+</h2>
+@section Noidungbenphai {
+    <div>
+        Website bán sách
+    </div> 
+    }
+
+<div id="divBody">
+    @{ int i = 0;}
+    @foreach (var item in Model)
+    {
+        i++;
+       <div id="SPsach">
+           <a href="@Url.Action("XemChiTiet","Sach",new {@MaSach=item.MaSach})">
+               <div id="AnhBia"><img src="@Url.Content("~/HinhAnh/"+item.AnhBia)" /> </div>
+
+               <div id="ThongTin">
+
+                   <div id="TenSach">@item.TenSach</div>
+                   <div id="DonGia" style="color:orange"><font color="green">Giá: </font>@string.Format("{0:0,0}", item.GiaBan + " VNĐ")</div>
+
+               </div>
+           </a>
+</div>
+       if (i % 4 == 0)
+                {
+                    <div style="clear:both"></div>
+                }
+    }
+</div>
+<div style="clear:both"></div>

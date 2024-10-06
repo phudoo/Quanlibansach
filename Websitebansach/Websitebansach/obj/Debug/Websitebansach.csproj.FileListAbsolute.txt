@@ -1,0 +1,423 @@
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Websitebansach.dll.config
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Websitebansach.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Websitebansach.pdb
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\csc.exe
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\csc.exe.config
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\csc.rsp
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\csi.exe
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\csi.exe.config
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\csi.rsp
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.AppContext.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Console.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Net.Http.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.ValueTuple.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\vbc.exe
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\vbc.exe.config
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\vbc.rsp
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Antlr3.Runtime.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Newtonsoft.Json.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Helpers.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Mvc.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Optimization.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Razor.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.WebPages.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\WebGrease.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Helpers.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Mvc.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Optimization.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.Razor.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.WebPages.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Newtonsoft.Json.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Antlr3.Runtime.pdb
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.AssemblyReference.cache
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.CoreCompileInputs.cache
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\obj\Debug\Websiteb.EC4BC827.Up2Date
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\obj\Debug\Websitebansach.dll
+C:\Users\trong\Downloads\Websitebansach\Websitebansach\obj\Debug\Websitebansach.pdb
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Websitebansach.dll.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Websitebansach.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Websitebansach.pdb
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\csc.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\csc.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\csc.rsp
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\csi.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\csi.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\csi.rsp
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.AppContext.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Console.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Net.Http.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.ValueTuple.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\vbc.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\vbc.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\vbc.rsp
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Antlr3.Runtime.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Newtonsoft.Json.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Helpers.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Mvc.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Optimization.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Razor.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.WebPages.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\WebGrease.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Helpers.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Mvc.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Optimization.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.Razor.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.WebPages.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Newtonsoft.Json.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Antlr3.Runtime.pdb
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.AssemblyReference.cache
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.CoreCompileInputs.cache
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\obj\Debug\Websiteb.EC4BC827.Up2Date
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\obj\Debug\Websitebansach.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\obj\Debug\Websitebansach.pdb
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\EntityFramework.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\EntityFramework.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Websitebansach.dll.config
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Websitebansach.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Websitebansach.pdb
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\csc.exe
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\csc.exe.config
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\csc.rsp
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\csi.exe
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\csi.exe.config
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\csi.rsp
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.AppContext.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Collections.Immutable.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Console.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Globalization.Calendars.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Net.Http.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Net.Sockets.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Reflection.Metadata.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.ValueTuple.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\vbc.exe
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\vbc.exe.config
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\vbc.rsp
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe.config
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Antlr3.Runtime.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\EntityFramework.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Microsoft.Web.Infrastructure.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Newtonsoft.Json.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Helpers.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Mvc.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Optimization.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Razor.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.WebPages.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\WebGrease.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\EntityFramework.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Helpers.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Mvc.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Optimization.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.Razor.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.WebPages.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Newtonsoft.Json.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Antlr3.Runtime.pdb
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.AssemblyReference.cache
+D:\CongNgheNet\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.CoreCompileInputs.cache
+D:\CongNgheNet\Websitebansach\Websitebansach\obj\Debug\Websiteb.EC4BC827.Up2Date
+D:\CongNgheNet\Websitebansach\Websitebansach\obj\Debug\Websitebansach.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\obj\Debug\Websitebansach.pdb
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\PagedList.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\PagedList.Mvc.dll
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\PagedList.xml
+D:\CongNgheNet\Websitebansach\Websitebansach\bin\PagedList.Mvc.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Websitebansach.dll.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Websitebansach.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Websitebansach.pdb
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\csc.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\csc.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\csc.rsp
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\csi.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\csi.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\csi.rsp
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.AppContext.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Console.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Net.Http.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.ValueTuple.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\vbc.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\vbc.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\vbc.rsp
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Antlr3.Runtime.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\EntityFramework.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Newtonsoft.Json.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\PagedList.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\PagedList.Mvc.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Helpers.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Mvc.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Optimization.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Razor.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.WebPages.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\WebGrease.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\EntityFramework.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\PagedList.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\PagedList.Mvc.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Helpers.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Mvc.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Optimization.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.Razor.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.WebPages.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Newtonsoft.Json.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Antlr3.Runtime.pdb
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.AssemblyReference.cache
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.CoreCompileInputs.cache
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\obj\Debug\Websiteb.EC4BC827.Up2Date
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\obj\Debug\Websitebansach.dll
+C:\Users\ROG G531\Documents\Zalo Received Files\Websitebansach trieu\Websitebansach\Websitebansach\obj\Debug\Websitebansach.pdb
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Websitebansach.dll.config
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Websitebansach.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Websitebansach.pdb
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\csc.exe
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\csc.exe.config
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\csc.rsp
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\csi.exe
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\csi.exe.config
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\csi.rsp
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.AppContext.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Collections.Immutable.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Console.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Globalization.Calendars.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Net.Http.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Net.Sockets.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Reflection.Metadata.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.ValueTuple.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\vbc.exe
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\vbc.exe.config
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\vbc.rsp
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\roslyn\VBCSCompiler.exe.config
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Antlr3.Runtime.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\EntityFramework.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Microsoft.Web.Infrastructure.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Newtonsoft.Json.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\PagedList.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\PagedList.Mvc.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Helpers.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Mvc.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Optimization.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Razor.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.WebPages.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\WebGrease.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\EntityFramework.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\EntityFramework.SqlServer.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\PagedList.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\PagedList.Mvc.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Helpers.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Mvc.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Optimization.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.Razor.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.WebPages.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.WebPages.Deployment.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\System.Web.WebPages.Razor.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Newtonsoft.Json.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Antlr3.Runtime.pdb
+D:\bai tap\.net\Websitebansach\Websitebansach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\bai tap\.net\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.AssemblyReference.cache
+D:\bai tap\.net\Websitebansach\Websitebansach\obj\Debug\Websitebansach.csproj.CoreCompileInputs.cache
+D:\bai tap\.net\Websitebansach\Websitebansach\obj\Debug\Websiteb.EC4BC827.Up2Date
+D:\bai tap\.net\Websitebansach\Websitebansach\obj\Debug\Websitebansach.dll
+D:\bai tap\.net\Websitebansach\Websitebansach\obj\Debug\Websitebansach.pdb

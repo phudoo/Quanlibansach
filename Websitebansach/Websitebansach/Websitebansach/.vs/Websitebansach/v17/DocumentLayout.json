@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\views\\layout\\nguoidunglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\layout\\nguoidunglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\content\\nguoidunglayoutcss\\nxb.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\content\\nguoidunglayoutcss\\nxb.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\views\\nhaxuatban\\sachtheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\nhaxuatban\\sachtheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\views\\nhaxuatban\\nhaxuatbanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\nhaxuatban\\nhaxuatbanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\views\\chude\\sachtheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\chude\\sachtheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\views\\chude\\chudepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\chude\\chudepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\controllers\\chudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\chudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\views\\sach\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\sach\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\views\\sach\\sachmenupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\sach\\sachmenupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\content\\nguoidunglayoutcss\\nguoidunglayoutcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\content\\nguoidunglayoutcss\\nguoidunglayoutcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\content\\fontweasome\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\content\\fontweasome\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\content\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\content\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\content\\fontweasome\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\content\\fontweasome\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\content\\bootstrap.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\content\\bootstrap.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|c:\\users\\rog g531\\documents\\zalo received files\\websitebansach\\websitebansach\\websitebansach\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\models\\qlbansach.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\models\\qlbansach.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\websitebansach\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NXB.css",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\NguoidungLayoutcss\\NXB.css",
+              "RelativeDocumentMoniker": "Websitebansach\\Content\\NguoidungLayoutcss\\NXB.css",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\NguoidungLayoutcss\\NXB.css",
+              "RelativeToolTip": "Websitebansach\\Content\\NguoidungLayoutcss\\NXB.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T10:30:07.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhaXuatBanPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\NhaXuatBan\\NhaXuatBanPartial.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\NhaXuatBan\\NhaXuatBanPartial.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\NhaXuatBan\\NhaXuatBanPartial.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\NhaXuatBan\\NhaXuatBanPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T06:12:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XemChiTiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Sach\\XemChiTiet.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Sach\\XemChiTiet.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Sach\\XemChiTiet.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Sach\\XemChiTiet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:26:07.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguoidungLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T09:21:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChudePartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Chude\\ChudePartial.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Chude\\ChudePartial.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Chude\\ChudePartial.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Chude\\ChudePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T05:57:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SachTheoChuDe.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Chude\\SachTheoChuDe.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Chude\\SachTheoChuDe.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Chude\\SachTheoChuDe.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Chude\\SachTheoChuDe.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:15:03.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChudeController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\ChudeController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\ChudeController.cs",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\ChudeController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\ChudeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:56:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T09:19:49.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SachTheoNXB.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\NhaXuatBan\\SachTheoNXB.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\NhaXuatBan\\SachTheoNXB.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\NhaXuatBan\\SachTheoNXB.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\NhaXuatBan\\SachTheoNXB.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:08:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhaXuatBanController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:12:06.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\SachController.cs",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\SachController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\SachController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:52:40.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:51:43.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SachmenuPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Sach\\SachmenuPartial.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Sach\\SachmenuPartial.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Sach\\SachmenuPartial.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Sach\\SachmenuPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T15:39:11.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NguoidungLayoutcss.css",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\NguoidungLayoutcss\\NguoidungLayoutcss.css",
+              "RelativeDocumentMoniker": "Websitebansach\\Content\\NguoidungLayoutcss\\NguoidungLayoutcss.css",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\NguoidungLayoutcss\\NguoidungLayoutcss.css",
+              "RelativeToolTip": "Websitebansach\\Content\\NguoidungLayoutcss\\NguoidungLayoutcss.css",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAjwEMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T03:09:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "font-awesome.css",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\Fontweasome\\css\\font-awesome.css",
+              "RelativeDocumentMoniker": "Websitebansach\\Content\\Fontweasome\\css\\font-awesome.css",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\Fontweasome\\css\\font-awesome.css",
+              "RelativeToolTip": "Websitebansach\\Content\\Fontweasome\\css\\font-awesome.css",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAlwHgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T07:07:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:55:29.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrangChu.css",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\TrangChu.css",
+              "RelativeDocumentMoniker": "Websitebansach\\Content\\TrangChu.css",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\TrangChu.css",
+              "RelativeToolTip": "Websitebansach\\Content\\TrangChu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T06:45:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:23:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Websitebansach\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\Site.css",
+              "RelativeToolTip": "Websitebansach\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T07:07:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\Fontweasome\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "Websitebansach\\Content\\Fontweasome\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\Fontweasome\\css\\font-awesome.min.css",
+              "RelativeToolTip": "Websitebansach\\Content\\Fontweasome\\css\\font-awesome.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T07:07:22.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Websitebansach\\Content\\bootstrap.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeToolTip": "Websitebansach\\Content\\bootstrap.rtl.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-02T07:07:09.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:18:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Websitebansach\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:26:30.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QLbansach.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Models\\QLbansach.edmx",
+              "RelativeDocumentMoniker": "Websitebansach\\Models\\QLbansach.edmx",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Models\\QLbansach.edmx [Diagram1]",
+              "RelativeToolTip": "Websitebansach\\Models\\QLbansach.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-27T14:42:12.096Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Web.config",
+              "RelativeDocumentMoniker": "Websitebansach\\Web.config",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Web.config",
+              "RelativeToolTip": "Websitebansach\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T14:43:18.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach\\Websitebansach\\Websitebansach\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:51:42.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

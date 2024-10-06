@@ -1,0 +1,41 @@
+﻿@using Websitebansach.Models;
+@model Sach
+
+@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/Layout/NguoidungLayout.cshtml";
+}
+@*Hình ảnh*@
+<div id="HinhAnh">
+    <img src="@Url.Content("~/HinhAnh/"+Model.AnhBia)"  height="300" width="200"/>
+</div>
+@*Thông tin*@
+<div id="ThongTin">
+    <div id="TenSach"> @Model.TenSach</div>
+    <div id="ChuDe">Chủ đề: @ViewBag.TenChuDe</div>
+    <div id="NhaXuatBan">Nhà xuất bản: @ViewBag.NhaXuatBan</div>
+    <div>Nội dung tóm tắt:<br />- @Model.MoTa <br /></div>
+    <div id="Gia"><span style="color: green; font-weight: normal;">Đơn giá:</span><br />@String.Format("{0:0,0}", Model.GiaBan) VNĐ</div>
+    @using (Html.BeginForm("ThemGioHang", "GioHang", new { @iMaSach = Model.MaSach, @strURL = Request.Url.ToString() }))
+    {
+         <input type="submit" style="cursor: pointer" value="Mua hàng &#xf07a;" id="btnGioHang" class="btn btn-primary" >
+    }
+</div>
+@*Css thông tin sách*@
+<style>
+    #TenSach {
+        font-weight: normal;
+        font-size: 20pt;
+        height: auto;
+        word-wrap: break-word; /*Canh nội dung tự xuống dòng*/
+        color: red;
+    }
+
+    
+
+    #ThongTin {
+       float: left;
+       width:600px;
+    }
+</style>
+

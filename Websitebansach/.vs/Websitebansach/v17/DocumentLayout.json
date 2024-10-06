@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bai tap\\.net\\Websitebansach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|d:\\bai tap\\.net\\websitebansach\\websitebansach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\controllers\\quanlisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\quanlisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\quanlisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\quanlisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\layout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\layout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\models\\qlbansach.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\models\\qlbansach.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|D:\\bai tap\\.net\\Websitebansach\\websitebansach\\views\\layout\\nguoidunglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF684B3-D8F6-45E9-9C84-85F82CB963F3}|Websitebansach\\Websitebansach.csproj|solutionrelative:websitebansach\\views\\layout\\nguoidunglayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Web.config",
+              "RelativeDocumentMoniker": "Websitebansach\\Web.config",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Web.config",
+              "RelativeToolTip": "Websitebansach\\Web.config",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-15T09:35:45.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\QuanLiSanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\QuanLiSanPham\\Index.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\QuanLiSanPham\\Index.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\QuanLiSanPham\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T08:42:46.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLiSanPhamController.cs",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\QuanLiSanPhamController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\QuanLiSanPhamController.cs",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\QuanLiSanPhamController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\QuanLiSanPhamController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAIoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:40:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Layout\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Layout\\AdminLayout.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Layout\\AdminLayout.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Layout\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T08:39:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhaXuatBanController.cs",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\NhaXuatBanController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:19:22.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:56:13.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:56:06.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:10:31.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLbansach.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Models\\QLbansach.edmx",
+              "RelativeDocumentMoniker": "Websitebansach\\Models\\QLbansach.edmx",
+              "ToolTip": "C:\\Users\\ROG G531\\Documents\\Zalo Received Files\\Websitebansach trieu\\Websitebansach\\Websitebansach\\Models\\QLbansach.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-10T12:50:37.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Models\\GioHang.cs",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Models\\GioHang.cs",
+              "RelativeToolTip": "Websitebansach\\Models\\GioHang.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:15:26.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Models\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Models\\ChiTietDonHang.cs",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Models\\ChiTietDonHang.cs",
+              "RelativeToolTip": "Websitebansach\\Models\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:57:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAhwLMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:30:19.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "Websitebansach\\Controllers\\SachController.cs",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Controllers\\SachController.cs",
+              "RelativeToolTip": "Websitebansach\\Controllers\\SachController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:14:02.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\GioHang\\GioHang.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\GioHang\\GioHang.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T03:21:03.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SuaGioHang.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T10:11:55.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GioHangPartial.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T09:29:26.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NguoidungLayout.cshtml",
+              "DocumentMoniker": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "RelativeDocumentMoniker": "Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "ToolTip": "D:\\bai tap\\.net\\Websitebansach\\Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "RelativeToolTip": "Websitebansach\\Views\\Layout\\NguoidungLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T09:34:22.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
